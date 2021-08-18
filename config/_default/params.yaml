@@ -1,3 +1,4 @@
+  
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
@@ -5,9 +6,9 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
+theme: wenchao_theme
+day_night: false
+font: 'wenchao_font'
 font_size: L
 
 # SEO
@@ -15,45 +16,23 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'Shilaan Alzahawi personal website'
+twitter: 'https://twitter.com/shilaan01'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: shilaan@stanford.edu
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  city: Palo Alto
   region: CA
-  postcode: '94305'
+  postcode: '94304'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Find me on Twitter
+    link: 'https://twitter.com/shilaan01'
 
 # Site header
 
@@ -62,7 +41,7 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
@@ -75,6 +54,7 @@ address_format: en-us
 # Site features
 
 highlight: true
+highlight_style: '' 
 highlight_languages:
   - r
   - python
@@ -147,9 +127,9 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'UA-196914537-1'
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'UA-196914537-1'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
@@ -157,4 +137,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
