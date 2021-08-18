@@ -8,7 +8,7 @@ education:
   - course: LLB in Political Science and Public Administration
     institution: Tianjin Normal University
     year: 2018
-email: mailto:wenchao@smail.nju.edu.cn
+email: wenchao@smail.nju.edu.cn
 highlight_name: no
 interests:
 - Political Psychology and Political Behavior
@@ -21,7 +21,7 @@ role: PhD student in Political Science
 social:
 - icon: envelope
   icon_pack: fas
-  link: wenchao@smail.nju.edu.cn 
+  link: mailto:wenchao@smail.nju.edu.cn 
 - display:
     header: yes
 - icon: github
