@@ -4,10 +4,10 @@ education:
   courses:
   - course: MSc in Political Theory
     institution: Nanjing University
-    year: 2017
+    year: 2021
   - course: LLB in Political Science and Public Administration
     institution: Tianjin Normal University
-    year: 2014
+    year: 2018
 email: wenchao@smail.nju.edu.cn
 highlight_name: no
 interests:
