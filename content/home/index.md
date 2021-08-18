@@ -1,5 +1,7 @@
 ---
-active:false
+# Activate this widget? true/false
+active: false
+
 # Homepage
 type: widget_page
 
