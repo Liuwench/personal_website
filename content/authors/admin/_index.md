@@ -15,7 +15,7 @@ interests:
 - Methods of Political Science Research
 - Computational Social Science
 organizations:
-- name: School of Government, Nanjing University
+- name: School of Government, NJU
   url: https://public.nju.edu.cn/
 role: PhD student in Political Science
 social:
